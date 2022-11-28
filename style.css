@@ -19,12 +19,13 @@
  #enterCityName{
    font-size: 30px;
  }
- #appHeading{
-    display: inline-block;
-    margin: 10px 5px 20px 0;
-    font-size: 50px;
-}
+
 #feels_Like{
     margin: 2px 2px 2px 0;
 }
 
+#appHeading{
+    display: inline-block;
+    font-size: 20px;
+    margin: 15px 5px 10px 0;
+}
